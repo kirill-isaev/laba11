@@ -11,12 +11,12 @@ $ open https://lldb.llvm.org/tutorial.html
 - [x] 1. Создать публичный репозиторий с названием **lab11** на сервисе **GitHub**
 - [x] 2. Выполнить инструкцию учебного материала
 - [x] 3. Ознакомиться со ссылками учебного материала
-- [x] 4. Составить отчет и отправить ссылку личным сообщением в **Slack**
+
 
 ## Tutorial
 
 ```ShellSession
-$ export GITHUB_USERNAME=Alexey01M
+$ export GITHUB_USERNAME=kirill-isaev
 $ alias gsed=sed # for *-nix system
 ```
 
